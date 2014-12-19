@@ -3,3 +3,7 @@ D:\MaLiang\GitHub\短信、邮件网站\Code\Web\StartSolution\Start.IDatabase\b
 D:\MaLiang\GitHub\短信、邮件网站\Code\Web\StartSolution\Start.IDatabase\obj\Debug\Start.IDatabase.csprojResolveAssemblyReference.cache
 D:\MaLiang\GitHub\短信、邮件网站\Code\Web\StartSolution\Start.IDatabase\obj\Debug\Start.IDatabase.dll
 D:\MaLiang\GitHub\短信、邮件网站\Code\Web\StartSolution\Start.IDatabase\obj\Debug\Start.IDatabase.pdb
+E:\GitHup\PhoneEmail\Code\Web\StartSolution\Start.IDatabase\bin\Debug\Start.IDatabase.dll
+E:\GitHup\PhoneEmail\Code\Web\StartSolution\Start.IDatabase\bin\Debug\Start.IDatabase.pdb
+E:\GitHup\PhoneEmail\Code\Web\StartSolution\Start.IDatabase\obj\Debug\Start.IDatabase.dll
+E:\GitHup\PhoneEmail\Code\Web\StartSolution\Start.IDatabase\obj\Debug\Start.IDatabase.pdb

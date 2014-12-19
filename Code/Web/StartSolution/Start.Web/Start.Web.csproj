@@ -124,6 +124,19 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Content Include="Global.asax" />
+    <Content Include="Themes\Web\CSS\Index.css" />
+    <Content Include="Themes\Web\CSS\Member.css" />
+    <Content Include="Themes\Web\bootstrap\css\bootstrap-theme.css" />
+    <Content Include="Themes\Web\bootstrap\css\bootstrap-theme.min.css" />
+    <Content Include="Themes\Web\bootstrap\css\bootstrap.css" />
+    <Content Include="Themes\Web\bootstrap\css\bootstrap.min.css" />
+    <Content Include="Themes\Web\bootstrap\js\bootstrap.js" />
+    <Content Include="Themes\Web\bootstrap\js\bootstrap.min.js" />
+    <Content Include="Themes\Web\bootstrap\js\html5shiv.js" />
+    <Content Include="Themes\Web\bootstrap\js\jquery-1.11.1.js" />
+    <Content Include="Themes\Web\bootstrap\js\jquery-1.11.1.min.js" />
+    <Content Include="Themes\Web\bootstrap\js\respond.min.js" />
+    <Content Include="Themes\Web\JS\jquery-1.11.1.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -135,15 +148,26 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Themes\Admin\" />
-    <Folder Include="Themes\Web\" />
-    <Folder Include="Views\Shared\" />
-    <Folder Include="Views\Web\" />
+    <Folder Include="Themes\Images\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Admin\Index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Themes\Web\bootstrap\css\bootstrap-theme.css.map" />
+    <Content Include="Themes\Web\bootstrap\css\bootstrap.css.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Themes\Web\bootstrap\js\jquery-1.11.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Web\Index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Shared\Nav.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
